@@ -1,0 +1,2 @@
+# StringsThirdAssignments
+Coursera Project
